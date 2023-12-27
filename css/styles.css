@@ -1,0 +1,13 @@
+#main{
+    background-color: aqua;
+    width: 200px;
+    height: 300px;
+    box-shadow: 2px 2px;
+    border-radius: 25px;
+    word-wrap: break-word;
+    padding: 15px;
+    font: roboto;
+    font-size: large;
+    line-height: 150%;
+    margin-top: 10px;
+}
